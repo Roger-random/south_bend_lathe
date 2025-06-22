@@ -7,8 +7,9 @@ of the list, decreasing interest/importance towards the bottom.
 * Saddle rear gib
 * Tool post grinder
 * Chuck key and jaws
-* Lantern tool post parts
+* Lantern tool post
 * Headstock lever and protecive covers
+* Tailstock lever and wrench
 
 # TAPER CUTTING GUIDE BAR
 
@@ -136,6 +137,19 @@ These are also listed purely so you know what they are if you see them. I
 don't care whether they turn up or not, because I plan to retrofit a modern
 motor. Which will require a different mount and hence that lever won't be
 applicable. I can create plastic protective covers with my 3D printer.
+
+# TAILSTOCK LEVER AND WRENCH
+
+The tailstock is missing its binding lever and wrench.
+[eBay item #388532726719](https://www.ebay.com/itm/388532726719)
+shows the complete assembly.
+
+![Model A tailstock](./img/tailstock.jpg)
+
+The wrench is nothing special, I can use a generic wrench to turn that hex nut.
+
+The binding lever is attached to a threaded rod extending inside the tailstock
+to clamp on spindle. As a last resort I can use a generic hex bolt.
 
 ---
 
