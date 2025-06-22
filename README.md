@@ -149,7 +149,8 @@ shows the complete assembly.
 The wrench is nothing special, I can use a generic wrench to turn that hex nut.
 
 The binding lever is attached to a threaded rod extending inside the tailstock
-to clamp on spindle. As a last resort I can use a generic hex bolt.
+to clamp on spindle. I can make a replacement and if not, as a last resort I
+can use a generic hex bolt.
 
 ---
 
