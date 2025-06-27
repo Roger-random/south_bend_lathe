@@ -50,8 +50,8 @@ the back side of the saddle right now:
 
 ![Saddle rear seated](./img/saddle_rear_no_gib.jpg)
 
-I searched for a picture to compare against, but apparently nobody ever takes
-a picture of the back side of a lathe. All I can demonstrate is that without
+I searched for a picture to compare against, but apparently nobody ever take
+pictures of a lathe's back side. All I can demonstrate is that without
 the rear gib clamping the saddle to the bed, I can easily lift the saddle
 into the air by hand.
 
@@ -119,6 +119,8 @@ If the missing parts turn up, great! If they don't, no matter! If I succeed in
 getting this lathe running I will likely buy either a turrent tool post or a
 quick-change tool post so I can switch cutters far faster than using this
 single-tool holder.
+
+Or maybe another tool post will show up, which would be great.
 
 # HEADSTOCK LEVER AND COVERS
 
